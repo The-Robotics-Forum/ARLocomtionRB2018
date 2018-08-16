@@ -3,7 +3,7 @@
 
 
 int x, y;
-int setpoint = 0;
+int setpoint = 35;
 float motorSpeed = 0;
 float Kp = 0.2, Kd = 0;
 float pwm1 = 50, pwm2 = 50, pwm3 = 50;
